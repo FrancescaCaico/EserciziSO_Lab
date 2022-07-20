@@ -1,0 +1,4 @@
+ciao questa linea ha 5 numeri 1234
+questa ne ha due 12
+questa non ne possiede
+qui uno solo 2

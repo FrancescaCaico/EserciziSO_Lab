@@ -1,0 +1,4 @@
+ciao
+A tutti 
+i sono il file1 e h tAnti CARATTERI
+QUESTA È L'ULTIMA LINEA DEL file4.txt

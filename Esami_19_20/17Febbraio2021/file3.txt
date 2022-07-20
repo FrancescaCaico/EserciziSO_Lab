@@ -1,0 +1,4 @@
+ciao questa linea ha quattro numeri 1234
+questa ne ha tre 123
+questa non ne possiede
+qui uno solo 2

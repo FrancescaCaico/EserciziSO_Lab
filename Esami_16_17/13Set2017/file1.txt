@@ -1,0 +1,3 @@
+ciao 
+sono il file1 
+QUESTA È L'ULTIMA LINEA DEL file1.txt

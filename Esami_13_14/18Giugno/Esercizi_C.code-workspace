@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "../../Esami_20_21"
+        }
+    ],
+    "settings": {
+        "makefile.extensionOutputFolder": "./.vscode"
+    }
+}

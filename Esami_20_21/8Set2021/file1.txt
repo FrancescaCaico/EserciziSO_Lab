@@ -1,0 +1,4 @@
+linea 1 file1
+linea 2 file1
+linea 3 file1 lunga
+linea 4 file1 lunga
